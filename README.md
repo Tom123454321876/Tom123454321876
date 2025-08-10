@@ -26,6 +26,28 @@ Developed as part of the AAI-500 Capstone — *M.S. Applied Artificial Intellige
 
 ---
 
+### 🌲 Forest Fire Predictor
+
+A machine learning project predicting the severity of forest fires in Portugal’s Montesinho Natural Park using environmental data, regression models, a Keras neural network, and real-time weather API integration.  
+Developed as part of the AAI-501 Final Project — *M.S. Applied Artificial Intelligence*, University of San Diego.
+
+**Key Highlights:**
+- 🔄 Data cleaning, transformation, and scaling
+- 📈 Linear Regression, Random Forest, Lasso Regression, and Keras Neural Network
+- 🌦 Integration of 7-day historical weather data from Open Meteo API
+- 📊 Evaluation using R² Score and Mean Absolute Error (MAE)
+- 🛠 Tools: Python, pandas, scikit-learn, seaborn, matplotlib, TensorFlow/Keras, API integration
+
+**Team Contributions:**
+- **Thomas Geraci:** Data preprocessing, Linear Regression, residual and prediction-vs-actual plots, Keras and API integration
+- **Daniel Sims:** Random Forest implementation and feature importance analysis
+- **Arslan Isaac:** Lasso Regression and feature selection
+- **All Members:** Keras deep learning model and weather API integration
+
+👉 [View Full Project Repository](https://github.com/Tom123454321876/AAI501-Forest-Fire-Predictor-Final-Project-Group2)
+
+---
+
 ## 🌱 Always learning, building, and growing.
 
 Feel free to explore my full repositories or connect with me on LinkedIn!
