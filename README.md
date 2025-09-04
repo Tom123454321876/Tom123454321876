@@ -29,7 +29,7 @@ Developed as part of the AAI-500 Capstone *M.S. Applied Artificial Intelligence*
 ### 🌲 Forest Fire Predictor
 
 A machine learning project predicting the severity of forest fires in Portugal’s Montesinho Natural Park using environmental data, regression models, a Keras neural network, and real-time weather API integration.  
-Developed as part of the AAI-501 Final Project — *M.S. Applied Artificial Intelligence*, University of San Diego.
+Developed as part of the AAI-501 Final Project *M.S. Applied Artificial Intelligence*, University of San Diego.
 
 **Key Highlights:**
 - 🔄 Data cleaning, transformation, and scaling
