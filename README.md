@@ -9,7 +9,7 @@ I'm Thomas Geraci, an applied AI graduate student focused on efficient machine l
 ### 🚀 Breast Cancer Malignancy Predictor
 
 A supervised machine learning project to predict breast cancer malignancy using diagnostic features from the Wisconsin Breast Cancer Dataset.  
-Developed as part of the AAI-500 Capstone — *M.S. Applied Artificial Intelligence*, University of San Diego.
+Developed as part of the AAI-500 Capstone *M.S. Applied Artificial Intelligence*, University of San Diego.
 
 **Key Highlights:**
 - 🔎 Data cleaning, preprocessing, and feature selection
